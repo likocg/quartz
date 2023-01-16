@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Eliel "Jesus" Guilhen
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,20 +10,21 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: Digital Garden de Eliel "Jesus" Guilhen
+page_title: "🌿 Matagal Dazideia"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/liko
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/likocg
+  - link_name: Jesus.com.vc
+    link: https://jesus.com.vc
+  - link_name: Cosmoliko
+    link: https://comosmoliko.com
