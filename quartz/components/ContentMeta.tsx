@@ -35,7 +35,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
-   */
+
 
 
       if (fileData.dates) {
@@ -49,7 +49,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           segments.push(<span>|</span>)
         }
       }
+   */
+      
+if (fileData.dates) {
+  if (fileData.dates.created) {
+    segments.push(<span>Criado em {formatDate(fileData.dates.created!, cfg.locale)}</span>)
+  }
 
+  if (fileData.dates.created && fileData.dates.modified) {
+    segments.push(<span> • </span>)
+  }
+
+  if (fileData.dates.modified) {
+    segments.push(<span>Modificado em {formatDate(fileData.dates.modified!, cfg.locale)}</span>)
+  }
+}
 
 
 
