@@ -29,9 +29,31 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
+        /**
+   * timestamp anterior
+
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
+   */
+
+
+      if (fileData.dates) {
+       if (fileData.dates.created) {
+          segments.push(<span>Criado em {formatDate(fileData.dates.created!, cfg.locale)}</span>)
+          segments.push(<span>|</span>)
+        }
+
+        if (fileData.dates.modified) {
+          segments.push(<span>Modificado em {formatDate(fileData.dates.modified!, cfg.locale)}</span>)
+          segments.push(<span>|</span>)
+        }
+      }
+
+
+
+
+      
 
       // Display reading time if enabled
       if (options.showReadingTime) {
