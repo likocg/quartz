@@ -1,9 +1,6 @@
 ---
-{"publish":true,"created":"2025-07-05T11:51","modified":"2025-07-05T11:52","cssclasses":""}
+{"publish":true,"title":"Checklist: Setup Quartz 4 para Digital Garden com Obsidian","created":"2025-07-05T11:51","modified":"2025-07-05T16:53","cssclasses":""}
 ---
-
-
-# Checklist: Setup Quartz 4 para Digital Garden com Obsidian
 
 Com base no [Setup Guide](https://saberzero1.github.io/quartz-syncer-docs/Setup-Guide) do plugin no Obsidian Quartz Syncer.
 
@@ -94,10 +91,30 @@ Tem que bater com como eu escrevo no obsidian, senão os links vão quebrar no s
 - [x] verificar se aparece checkmark verde
 
 ### 6. testar
-- [ ] criar uma nota no obsidian
-- [ ] usar o comando do quartz syncer pra publicar
-- [ ] verificar se apareceu no github
-- [ ] aguardar deploy (alguns minutos)
-- [ ] acessar seu site em `<username>.github.io/<repo-name>`
+- [x] criar uma nota no obsidian
+- [x] usar o comando do quartz syncer pra publicar
+- [x] verificar se apareceu no github
+- [x] aguardar deploy (alguns minutos)
+- [x] acessar seu site em `<username>.github.io/<repo-name>`
 
 **dica:** se der merda, a documentação de troubleshooting tá linkada no guia original. mas basicamente é sempre problema de token ou configuração de repo.
+
+
+---
+
+## Outros jardins digitais que utilizam quartz
+
+https://quartz.eilleeenz.com/Quartz-customization-log
+
+
+## Roadmap
+
+- [ ] Adicionar o efeito sunlight que tem do jzhao
+	- https://jzhao.xyz/thoughts/craft
+- [ ] Adicionar tanto a data de criação quanto de modificação em cada nota
+	- https://luciradis.arczenpulse.dev/Records/The-First-Respite
+- [ ] 
+
+Custom css
+- https://github.com/SheathedBlade/The-World-of-Luciradis/blob/v4/quartz/styles/custom.scss
+- 

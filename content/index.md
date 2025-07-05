@@ -1,9 +1,6 @@
 ---
-{"publish":true,"title":"Welcome to Quartz","created":"2025-07-05T13:16","modified":"2025-07-05T14:43","cssclasses":""}
+{"publish":true,"title":"Olá! 👋","created":"2025-07-05T13:16","modified":"2025-07-05T16:53","cssclasses":""}
 ---
-
-
-# Olá! 👋
 
 Eu sou [[Sobre mim\|Eliel]], e você veio parar no meu *matagal dazideia*: 
 
