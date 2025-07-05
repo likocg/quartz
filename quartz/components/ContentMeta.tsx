@@ -56,16 +56,10 @@ if (fileData.dates) {
     segments.push(<span>Criado em {formatDate(fileData.dates.created!, cfg.locale)}</span>)
   }
 
-  if (fileData.dates.created && fileData.dates.modified) {
-    segments.push(<span> • </span>)
-  }
-
   if (fileData.dates.modified) {
     segments.push(<span>Modificado em {formatDate(fileData.dates.modified!, cfg.locale)}</span>)
   }
 }
-
-
 
       
 
