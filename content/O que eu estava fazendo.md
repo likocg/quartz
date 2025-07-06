@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2023-01-23T20:35","modified":"2025-07-05T17:54","cssclasses":""}
+{"publish":true,"created":"2023-01-23T20:35","modified":"2025-07-06T20:20","cssclasses":""}
 ---
 
-# Março, 2024
+## Março, 2024
 *Update: 30-03-2024*
 
 📌 Arraial do Cabo / Cabo Frio
@@ -17,7 +17,7 @@ Entender minha mediunidade num processo mais lento tem trazido alguns bons fruto
 
 Contudo, é hora de aterrar e cuidar dos planos materiais. Por isso, me dediquei as aulas de direção e, assim que estiver habilitado, não terei mais motivos para permanecer na região.
 
-# Fevereiro, 2024
+## Fevereiro, 2024
 *Update: 05-02-2024*
 
 📌 Arraial do Cabo / Cabo Frio
@@ -37,7 +37,7 @@ Exu me disse que, desde que eu saí da casa da minha mãe, vivo na humildade, em
 Será que ele entendeu que eu usei a palavra "humildade" como metáfora a qualidade de vida material, quando perguntei até quando viveria na humildade?
 
 ---
-# Janeiro, 2024
+## Janeiro, 2024
 *Update: 03-01-2024*
 
 📌 Arraial do Cabo / Cabo Frio
@@ -49,7 +49,7 @@ Será que ele entendeu que eu usei a palavra "humildade" como metáfora a qualid
 📚 Estou estudando os livros de [[02 Áreas/Notas/C. W. Leadbeater]]. Estou de parabéns por me manter interessado nas leituras, não julgar os relatos e manter o ceticismo longe.
 
 ---
-# Dezembro, 2023
+## Dezembro, 2023
 *Update: 06-12-2023*
 
 📌 São Paulo → **Conchas** → Botucatu → Arraial do Cabo → Cabo Frio
