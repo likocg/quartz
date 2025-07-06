@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Checklist: Setup Quartz 4 para Digital Garden com Obsidian","created":"2025-07-05T11:51","modified":"2025-07-06T11:22","tags":["notas"],"cssclasses":""}
+{"publish":true,"title":"Checklist: Setup Quartz 4 para Digital Garden com Obsidian","created":"2025-07-05T11:51","modified":"2025-07-06T11:22","tags":["notas","Quartz","Obsidian","Digital-Garden"],"cssclasses":""}
 ---
 
 Com base no [Setup Guide](https://saberzero1.github.io/quartz-syncer-docs/Setup-Guide) do plugin no Obsidian Quartz Syncer.

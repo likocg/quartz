@@ -1,8 +1,6 @@
 ---
-{"publish":true,"created":"2023-12-07T20:09","modified":"2025-07-05T13:24","tags":["notas"],"cssclasses":""}
+{"publish":true,"created":"2023-12-07T20:09","modified":"2025-07-06T12:31","tags":["notas"],"cssclasses":""}
 ---
-
-# Sobre mim
 
 **Olá, meu nome é Eliel.**
 

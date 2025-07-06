@@ -1,6 +1,21 @@
 ---
-{"publish":true,"created":"2023-01-23T20:35","modified":"2024-02-05T14:29","cssclasses":""}
+{"publish":true,"created":"2023-01-23T20:35","modified":"2025-07-05T17:54","cssclasses":""}
 ---
+
+# Março, 2024
+*Update: 30-03-2024*
+
+📌 Arraial do Cabo / Cabo Frio
+
+Março foi o primeiro mês sem uma casa espiritual. O primeiro mês em que estive por conta própria para entender minha intuição, me comunicar com meus guias, praticar a espiritualidade. 
+
+Não poder cambonar mais Exu me deixou triste por um lado, mas conforme eu entendi que era hora de um novo ciclo, mais um ciclo solitário, me senti mais do que preparado para os próximos passos.
+
+Utilizei o Tarot para confirmar minhas suspeitas com meu guia e tem sido uma aventura fascinante de muito conhecimento que eu jamais teria conseguido quando era cético e não aceitava nenhum tipo de pseudociência.
+
+Entender minha mediunidade num processo mais lento tem trazido alguns bons frutos também. 
+
+Contudo, é hora de aterrar e cuidar dos planos materiais. Por isso, me dediquei as aulas de direção e, assim que estiver habilitado, não terei mais motivos para permanecer na região.
 
 # Fevereiro, 2024
 *Update: 05-02-2024*
