@@ -13,7 +13,19 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+
+
+<p>
+  Esse jardim digital foi feito com{" "}
+  <a href="https://obsidian.md/">Obsidian</a>,{" "}
+  <a href="https://github.com/likocg/quartz">Github</a> e{" "}
+  <a href="https://vercel.com/">Vercel</a> usando{" "}
+  <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+</p>
+
+
+
+        {/* <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
@@ -23,7 +35,7 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
-        </ul>
+        </ul> */}
       </footer>
     )
   }
