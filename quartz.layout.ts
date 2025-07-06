@@ -44,9 +44,9 @@ export const defaultContentPageLayout: PageLayout = {
       }),
     Component.RecentNotes({ 
       title: "notas recentes", 
-      limit: 5, 
-      showTags: true,
-      linkToMore: "notas"
+      limit: 4, 
+      showTags: false,
+      linkToMore: "tags/notas"
     })
     
   ],
