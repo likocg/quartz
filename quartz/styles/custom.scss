@@ -3,8 +3,35 @@
 // put your custom CSS here!
 
 
+
+//cor do criado e modificado em
 .content-meta {
   color: #888;
   font-size: 0.9em;
   opacity: 0.8;
+}
+
+// tamanho das sidebar, exceto a title
+
+.left.sidebar *:not(.page-title):not(.page-title *),
+.right.sidebar * {
+    font-size: 0.95rem;
+    font-weight: 500;
+    }
+
+
+.left.sidebar {
+  display: initial;
+}
+
+.explorer {
+  flex: initial;
+  min-height: initial;
+  overflow-y: auto;
+}
+
+.recent-notes {
+  flex: initial;
+  min-height: 380px;
+  overflow-y: auto;
 }
