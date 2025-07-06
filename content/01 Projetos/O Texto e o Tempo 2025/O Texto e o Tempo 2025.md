@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-05T18:17","modified":"2025-07-06T20:26","tags":["notas","cursos","escrita","newsletter"],"cssclasses":""}
+{"publish":true,"created":"2025-07-05T18:17","modified":"2025-07-06T20:30","tags":["notas","cursos","escrita","newsletter"],"cssclasses":""}
 ---
 
-# Anotações sobre o Evento
+## Anotações sobre o Evento
 
 **Sábado, 5 de julho**
 Mesa das 9h: [[01 Projetos/O Texto e o Tempo 2025/Todos os caminhos estão abertos - newsletters e viagens]]
