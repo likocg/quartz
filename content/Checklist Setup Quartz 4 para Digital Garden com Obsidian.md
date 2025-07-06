@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Checklist: Setup Quartz 4 para Digital Garden com Obsidian","created":"2025-07-05T11:51","modified":"2025-07-05T16:53","cssclasses":""}
+{"publish":true,"title":"Checklist: Setup Quartz 4 para Digital Garden com Obsidian","created":"2025-07-05T11:51","modified":"2025-07-06T11:22","tags":["notas"],"cssclasses":""}
 ---
 
 Com base no [Setup Guide](https://saberzero1.github.io/quartz-syncer-docs/Setup-Guide) do plugin no Obsidian Quartz Syncer.
@@ -117,4 +117,54 @@ https://quartz.eilleeenz.com/Quartz-customization-log
 
 Custom css
 - https://github.com/SheathedBlade/The-World-of-Luciradis/blob/v4/quartz/styles/custom.scss
-- 
+
+
+## Mais sobre o Quartz
+
+Quartz supports the following frontmatter:
+
+- title
+    - `title`
+- description
+    - `description`
+- permalink
+    - `permalink`
+- comments
+    - `comments`
+- lang
+    - `lang`
+- publish
+    - `publish`
+- draft
+    - `draft`
+- enableToc
+    - `enableToc`
+- tags
+    - `tags`
+    - `tag`
+- aliases
+    - `aliases`
+    - `alias`
+- cssclasses
+    - `cssclasses`
+    - `cssclass`
+- socialDescription
+    - `socialDescription`
+- socialImage
+    - `socialImage`
+    - `image`
+    - `cover`
+- created
+    - `created`
+    - `date`
+- modified
+    - `modified`
+    - `lastmod`
+    - `updated`
+    - `last-modified`
+- published
+    - `published`
+    - `publishDate`
+    - `date`
+
+

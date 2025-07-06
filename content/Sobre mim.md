@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-12-07T20:09","modified":"2024-02-22T11:41","cssclasses":""}
+{"publish":true,"created":"2023-12-07T20:09","modified":"2025-07-05T13:24","tags":["notas"],"cssclasses":""}
 ---
 
 # Sobre mim
