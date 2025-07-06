@@ -38,7 +38,17 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+        title: "explore",
+        folderDefaultState: "collapsed"
+      }),
+    Component.RecentNotes({ 
+      title: "notas recentes", 
+      limit: 5, 
+      showTags: true,
+      linkToMore: "notas"
+    })
+    
   ],
   right: [
     Component.Graph(),
