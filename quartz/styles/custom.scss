@@ -8,6 +8,7 @@
   color: #888;
   font-size: 0.9em;
   opacity: 0.8;
+  margin-block-end: 0;
 }
 
 // tamanho das sidebar, exceto a title
@@ -45,3 +46,32 @@
       overflow-y: auto;
     }
     }
+
+
+// tags
+
+// a.internal.tag-link {
+//   background: transparent !important;
+//   color: var(--gray) !important;
+//   border: 1px solid var(--lightgray) !important;
+//   padding: 0.2rem 0.5rem !important;
+//   border-radius: 4px !important;
+//   font-size: 0.75rem !important;
+//   font-weight: 400 !important;
+//   text-decoration: none !important;
+//   transition: all 0.2s ease !important;
+// }
+
+// a.internal.tag-link:hover {
+//   border-color: var(--secondary) !important;
+//   color: var(--secondary) !important;
+//   background: rgba(var(--secondary-rgb), 0.05) !important;
+// }
+
+// a.internal.tag-link::before {
+//   content: "#" !important;
+//   opacity: 0.6 !important;
+//   margin-right: 0.1rem !important;
+// }
+
+

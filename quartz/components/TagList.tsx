@@ -24,13 +24,42 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   }
 }
 
+// TagList.css = `
+// .tags {
+//   list-style: none;
+//   display: flex;
+//   padding-left: 0;
+//   gap: 0.4rem;
+//   margin: 1rem 0;
+//   flex-wrap: wrap;
+// }
+
+// .section-li > .section > .tags {
+//   justify-content: flex-end;
+// }
+  
+// .tags > li {
+//   display: inline-block;
+//   white-space: nowrap;
+//   margin: 0;
+//   overflow-wrap: normal;
+// }
+
+// a.internal.tag-link {
+//   border-radius: 8px;
+//   background-color: var(--highlight);
+//   padding: 0.2rem 0.4rem;
+//   margin: 0 0.1rem;
+// }
+// `
+
 TagList.css = `
 .tags {
   list-style: none;
   display: flex;
   padding-left: 0;
-  gap: 0.4rem;
-  margin: 1rem 0;
+  gap: 0.2rem;
+  margin: 0;
   flex-wrap: wrap;
 }
 
@@ -46,11 +75,30 @@ TagList.css = `
 }
 
 a.internal.tag-link {
-  border-radius: 8px;
-  background-color: var(--highlight);
-  padding: 0.2rem 0.4rem;
-  margin: 0 0.1rem;
+  background: none;
+  color: var(--gray);
+  border: none;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a.internal.tag-link:hover {
+  color: var(--secondary);
+  background: var(--lightgray);
+}
+
+a.internal.tag-link::before {
+  content: "#";
+  opacity: 0.5;
+  margin-right: 0.1rem;
 }
 `
+
+
+
 
 export default (() => TagList) satisfies QuartzComponentConstructor
