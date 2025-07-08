@@ -3,7 +3,6 @@
 // put your custom CSS here!
 
 
-
 //cor do criado e modificado em
 .content-meta {
   color: #888;
@@ -12,7 +11,6 @@
 }
 
 // tamanho das sidebar, exceto a title
-
 .left.sidebar *:not(.page-title):not(.page-title *),
 .right.sidebar * {
     font-size: 0.95rem;
@@ -20,18 +18,30 @@
     }
 
 
-.left.sidebar {
-  display: initial;
-}
+// no mobile nao aparecer o recent notes
 
-.explorer {
-  flex: initial;
-  min-height: initial;
-  overflow-y: auto;
-}
+@media (max-width: 800px) {
+      .recent-notes {
+        display: none;
+      }
+    }
 
-.recent-notes {
-  flex: initial;
-  min-height: 380px;
-  overflow-y: auto;
-}
+
+// sidebar no desktop
+@media (min-width: 801px) {
+    .left.sidebar {
+      display: initial;
+    }
+
+    .explorer {
+      flex: initial;
+      min-height: initial;
+      overflow-y: auto;
+    }
+
+    .recent-notes {
+      flex: initial;
+      min-height: 370px;
+      overflow-y: auto;
+    }
+    }
