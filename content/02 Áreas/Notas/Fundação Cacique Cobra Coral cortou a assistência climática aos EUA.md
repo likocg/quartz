@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-10T19:37","modified":"2025-07-10T20:07","published":"2025-07-10T20:09:31.610-03:00","tags":["notas","espiritualidade"],"cssclasses":""}
+{"publish":true,"created":"2025-07-10T19:37","modified":"2025-07-10T20:09","published":"2025-07-10T20:14:08.584-03:00","tags":["notas","espiritualidade"],"cssclasses":""}
 ---
 
 A Fundação Cacique Cobra Coral viralizou com um post anunciando a suspensão de 50% da "assistência climática" que prestam aos EUA desde o governo Ronald Reagan, em resposta às tarifas de 50% que o Trump colocou nos produtos brasileiros.
 
 O comunicado era formal, diplomático, citando "princípio da reciprocidade". Basicamente: vocês taxam nossos produtos, nós cortamos nossa proteção espiritual.
 
-O temporal que abateu sobre Washington com alertas para tornados na casa branca fez a festa na internet brasileira com memes que nenhum realismo mágico conseguiria entrega o que o Brasil entrega.
+O temporal que abateu sobre Washington com alertas para tornados na casa branca fez a festa na internet brasileira com memes que nenhum realismo mágico conseguiria alcançar no mesmo nível que o Brasil entrega.
 
 No Bluesky, Elisa fez um ponto "não é questão de acreditar, é questão de funcionar". Ela comparou com práticas espirituais do Haiti - você contrata, tem resultado, independente da sua fé.
 
