@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-10T23:53","published":"2025-07-10T23:53:48.744-03:00","cssclasses":""}
+{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-10T23:53","published":"2025-07-11T12:16:27.517-03:00","cssclasses":""}
 ---
 
-Eu sou [[BKP Old/Sobre mim (2024)\|Eliel]], e você veio parar no meu *matagal dazideia*: 
+Eu sou [[Sobre mim\|Eliel]], e você veio parar no meu *matagal dazideia*: 
 
 Um laboratório de estudos em que compilo algumas anotações publicamente. Se você não entender qualquer frase que esteja por aí, provavelmente é porque não foi escrita pensando em uma audiência. A organização é propositalmente difícil de navegar com links que frequentemente se modificam e mudam de lugar.
 
@@ -11,8 +11,7 @@ Um laboratório de estudos em que compilo algumas anotações publicamente. Se v
 Você pode conferir a página [[Sobre mim]], o que estou fazendo [[O que estou fazendo agora\|Agora]], ou navegar pelas anotações abaixo.
 
 
-## Notas modificadas nos últimos dias
-
+## Notas criadas nos últimos dias
 | File                                                                                                                                                                                         | Criado em  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[Sobre mim\|Sobre mim]]                                                                                                                                     | 10/07/2025 |
@@ -33,3 +32,6 @@ Você pode conferir a página [[Sobre mim]], o que estou fazendo [[O que estou f
 | [[02 Áreas/Notas/Checklist Setup Quartz 4 para Digital Garden com Obsidian\|Checklist Setup Quartz 4 para Digital Garden com Obsidian]]                                                   | 05/07/2025 |
 
 
+Não é possível comentar nas anotações, mas se quiser [falar comigo por email](mailto:elielguilhen@gmail.com), ficarei feliz em te responder.
+
+Se quiser acessar meu blog de verdade: [Cosmoliko](https://cosmoliko.com/)
