@@ -17,9 +17,8 @@ export default ((opts?: Options) => {
 
 <p>
   Esse jardim digital foi feito com{" "}
-  <a href="https://obsidian.md/">Obsidian</a>,{" "}
-  <a href="https://github.com/likocg/quartz">Github</a> e{" "}
-  <a href="https://vercel.com/">Vercel</a> usando{" "}
+  <a href="https://obsidian.md/">Obsidian</a>e{" "}
+  <a href="https://github.com/likocg/quartz">Github</a> usando{" "}
   <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
 </p>
 
