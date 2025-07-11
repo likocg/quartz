@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-10T22:15","modified":"2025-07-10T22:24","published":"2025-07-10T23:43:44.082-03:00","tags":["notas","cursos","Transcrição"],"cssclasses":""}
+{"publish":true,"created":"2025-07-10T22:15","modified":"2025-07-10T23:43","published":"2025-07-10T23:46:43.572-03:00","tags":["notas","cursos","Transcrição"],"cssclasses":""}
 ---
 
 # Histórias que nos escolhem, aula gratuita da Seiva
@@ -177,5 +177,5 @@ Daniel Lameira, apresentador
 [[02 Áreas/Pessoas/Carol Pires]]
 - É autora dos podcasts [[02 Áreas/Notas/Retrato Narrado e Desiguais]], na revista Piauí, e co-roteirista do filme [[02 Áreas/Notas/Democracia em vertigem]] (Netflix), indicado ao Oscar 2020 de melhor documentário.
 
-
+[[02 Áreas/Notas/Transcrição de Histórias que nos escolhem, aula gratuita da Seiva\|Transcrição]]
 
