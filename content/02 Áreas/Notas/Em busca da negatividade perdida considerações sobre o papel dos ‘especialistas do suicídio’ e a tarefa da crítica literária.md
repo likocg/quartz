@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-23T20:36","modified":"2025-07-23T20:36","published":"2025-07-23T20:37:01.351-03:00","tags":["notas"],"cssclasses":""}
+{"publish":true,"title":"TESTE DE TITLE","created":"2025-07-23T20:36","modified":"2025-07-24T19:03","published":"2025-07-24T19:03:29.770-03:00","tags":["notas"],"cssclasses":""}
 ---
 
 # Em busca da negatividade perdida: considerações sobre o papel dos ‘especialistas do suicídio’ e a tarefa da crítica literária
