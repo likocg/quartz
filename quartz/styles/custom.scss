@@ -3,12 +3,22 @@
 // put your custom CSS here!
 
 
+// para nao exibir as titles e ficar duplicado com o H1 que eu ja coloco em cada arquivo md
+.article-title {
+  display: none
+}
+
 //cor do criado e modificado em
 .content-meta {
   color: #888;
   font-size: 0.9em;
   opacity: 0.8;
   margin-block-end: 0;
+}
+
+//para nao mostrar na home
+body[data-slug="index"] .content-meta {
+  display: none;
 }
 
 // tamanho das sidebar, exceto a title

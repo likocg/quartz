@@ -17,10 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    // Component.ConditionalRender({
+    //   component: Component.Breadcrumbs(),
+    //   condition: (page) => page.fileData.slug !== "index",
+    // }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -42,12 +42,12 @@ export const defaultContentPageLayout: PageLayout = {
         title: "explore",
         folderDefaultState: "collapsed"
       }),
-    Component.RecentNotes({ 
-      title: "notas recentes", 
-      limit: 3, 
-      showTags: false,
-      linkToMore: "tags/notas"
-    })
+    // Component.RecentNotes({ 
+    //   title: "notas recentes", 
+    //   limit: 3, 
+    //   showTags: false,
+    //   linkToMore: "tags/notas"
+    // })
     
   ],
   right: [
