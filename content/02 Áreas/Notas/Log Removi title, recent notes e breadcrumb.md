@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-24T20:07","modified":"2025-07-24T20:13","published":"2025-07-24T20:14:42.069-03:00","tags":["notas","Log","Quartz"],"cssclasses":""}
+{"publish":true,"created":"2025-07-24T20:07","modified":"2025-07-24T20:14","published":"2025-07-24T20:22:17.150-03:00","tags":["notas","Log","Quartz"],"cssclasses":""}
 ---
 
 # Log: Removi title, recent notes e breadcrumb
