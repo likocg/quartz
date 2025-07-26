@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-09-11T09:15","modified":"2025-07-09T23:18","published":"2025-07-09T23:27:01.967-03:00","tags":["notas","Livros"],"cssclasses":""}
+{"publish":true,"created":"2023-09-11T09:15","modified":"2025-07-25T22:37","published":"2025-07-25T22:46:37.784-03:00","tags":["notas","Livros"],"cssclasses":""}
 ---
 
 # Livro: Título

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-26T13:27","modified":"2025-07-26T13:27","published":"2025-07-26T13:28:51.947-03:00","tags":["notas","como","roamresearch","mcp","raycast"],"cssclasses":""}
+{"publish":true,"created":"2025-07-26T13:27","modified":"2025-07-26T13:27","published":"2025-07-26T19:43:45.258-03:00","tags":["notas","como","roamresearch","mcp","raycast"],"cssclasses":""}
 ---
 
 # Configurando Roam Research MCP no Raycast
@@ -83,6 +83,10 @@ Após configurar, testar com: "me mostra as páginas modificadas hoje"
 ### Graph não encontrado
 - Verificar se ROAM_GRAPH_NAME está exato (case-sensitive)
 - Confirmar acesso ao graph especificado
+
+
+## Links úteis
+https://github.com/2b3pro/roam-research-mcp
 
 ---
 # Teste
