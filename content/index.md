@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-24T19:49","published":"2025-07-26T20:33:58.498-03:00","cssclasses":""}
+{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-24T19:49","published":"2025-07-26T20:40:11.026-03:00","cssclasses":""}
 ---
 
 # Olá! 👋
@@ -39,23 +39,15 @@ Você pode conferir a página [[Sobre mim]], minha [[02 Áreas/MOCs/Biblioteca]]
 
 
 ## Notas modificadas nos últimos dias
-| File                                                                                                                                                                                                                                                                             | Modificado em |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[02 Áreas/Notas/Como configurar Roam Research MCP no Raycast\|Como configurar Roam Research MCP no Raycast]]                                                                                                                                                                 | 26/07/2025    |
-| [[02 Áreas/Notas/Como configurar Ghost MCP no Raycast\|Como configurar Ghost MCP no Raycast]]                                                                                                                                                                                 | 26/07/2025    |
-| [[02 Áreas/Notas/Como configurar Readwise MCP no Raycast\|Como configurar Readwise MCP no Raycast]]                                                                                                                                                                           | 26/07/2025    |
-| [[02 Áreas/Livros/Vida Desinteressante (2021)\|Vida Desinteressante (2021)]]                                                                                                                                                                                                  | 25/07/2025    |
-| [[02 Áreas/Notas/Arc Search e Perplexity AI, mais um assalto à web?\|Arc Search e Perplexity AI, mais um assalto à web?]]                                                                                                                                                     | 25/07/2025    |
-| [[02 Áreas/Notas/Curso Crônicas e escrita autobiográfica\|Curso Crônicas e escrita autobiográfica]]                                                                                                                                                                           | 25/07/2025    |
-| [[02 Áreas/Notas/Log Removi title, recent notes e breadcrumb\|Log Removi title, recent notes e breadcrumb]]                                                                                                                                                                   | 24/07/2025    |
-| [[02 Áreas/Notas/Modificado em...\|Modificado em...]]                                                                                                                                                                                                                         | 24/07/2025    |
-| [[02 Áreas/Notas/Em busca da negatividade perdida considerações sobre o papel dos ‘especialistas do suicídio’ e a tarefa da crítica literária\|Em busca da negatividade perdida considerações sobre o papel dos ‘especialistas do suicídio’ e a tarefa da crítica literária]] | 24/07/2025    |
-| [[02 Áreas/Notas/Como manter o n8n sempre ativo\|Como manter o n8n sempre ativo]]                                                                                                                                                                                             | 15/07/2025    |
-| [[02 Áreas/Notas/Workflow Bluesky to Roam Research via n8n\|Workflow Bluesky to Roam Research via n8n]]                                                                                                                                                                       | 11/07/2025    |
-| [[02 Áreas/Notas/Novo Controle de Notas - Quartz\|Novo Controle de Notas - Quartz]]                                                                                                                                                                                           | 11/07/2025    |
-| [[02 Áreas/Notas/Histórias que nos escolhem\|Histórias que nos escolhem]]                                                                                                                                                                                                     | 10/07/2025    |
-| [[02 Áreas/Notas/MacWhisper - Discussão sobre Detecção de Speakers e Resumos\|MacWhisper - Discussão sobre Detecção de Speakers e Resumos]]                                                                                                                                   | 10/07/2025    |
-| [[02 Áreas/Notas/Fundação Cacique Cobra Coral cortou a assistência climática aos EUA\|Fundação Cacique Cobra Coral cortou a assistência climática aos EUA]]                                                                                                                   | 10/07/2025    |
+| File                                                                                                                                                 | Modificado em |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[02 Áreas/Notas/Arc Search e Perplexity AI, mais um assalto à web?\|Arc Search e Perplexity AI, mais um assalto à web?]]                         | 25/07/2025    |
+| [[00 Journal/1. Daily/2024/01-January/2024-01-30-Tue\|2024-01-30-Tue]]                                                                            | 06/07/2025    |
+| [[02 Áreas/Notas/Quando temos assuntos mais urgentes do que a mudança climática\|Quando temos assuntos mais urgentes do que a mudança climática]] | 06/07/2025    |
+| [[02 Áreas/Notas/Poor Things, 2023\|Poor Things, 2023]]                                                                                           | 06/07/2025    |
+| [[02 Áreas/Notas/Revisitando o app Quick Review feito por Matt Birchler\|Revisitando o app Quick Review feito por Matt Birchler]]                 | 06/07/2025    |
+| [[02 Áreas/Notas/Uma (nada) breve história sobre mim\|Uma (nada) breve história sobre mim]]                                                       | 06/07/2025    |
+| [[02 Áreas/Notas/Controle de Notas\|Controle de Notas]]                                                                                           | 05/07/2025    |
 
 
 
