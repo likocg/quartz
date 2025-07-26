@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-01-29T13:58","modified":"2025-07-06T22:12","published":"2025-07-06T22:12:50.770-03:00","tags":["notas","arc","perplexity"],"cssclasses":""}
+{"publish":true,"created":"2024-01-29T13:58","modified":"2025-07-24T19:59:27-03:00","published":"2025-07-25T21:30:59.525-03:00","tags":["notas","arc","perplexity"],"cssclasses":""}
 ---
 
 # Arc Search e Perplexity.AI, mais um assalto à web?
@@ -10,7 +10,7 @@ Ghedin respondeu se tratar de um **assalto à web**:
 
 > Bem curioso, parece algo diferente mesmo, mas:
 > 
-> > 	Ele “navega para você” lendo várias páginas da web sobre um tópico de pesquisa e compilando-as em uma única “guia perfeita” com informações relevantes, como vídeos do YouTube e citações.
+> > Ele “navega para você” lendo várias páginas da web sobre um tópico de pesquisa e compilando-as em uma única “guia perfeita” com informações relevantes, como vídeos do YouTube e citações.
 >
 > Mais um assalto à web, por uma startup que não pede licença para usar sites alheios de insumo para o seu produto “inovador”. Difícil.
 
