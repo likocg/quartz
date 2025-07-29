@@ -32,29 +32,29 @@ body[data-slug="index"] .content-meta {
 // no mobile nao aparecer o recent notes
 
 @media (max-width: 800px) {
-      .recent-notes {
-        display: none;
-      }
+      // .recent-notes {
+      //   display: none;
+      // }
     }
 
 
 // sidebar no desktop
 @media (min-width: 801px) {
-    .left.sidebar {
-      display: initial;
-    }
+    // .left.sidebar {
+    //   display: initial;
+    // }
 
-    .explorer {
-      flex: initial;
-      min-height: initial;
-      overflow-y: auto;
-    }
+    // .explorer {
+    //   flex: initial;
+    //   min-height: initial;
+    //   overflow-y: auto;
+    // }
 
-    .recent-notes {
-      flex: initial;
-      min-height: 370px;
-      overflow-y: auto;
-    }
+    // .recent-notes {
+    //   flex: initial;
+    //   min-height: 370px;
+    //   overflow-y: auto;
+    // }
     }
 
 

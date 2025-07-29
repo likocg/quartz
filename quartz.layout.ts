@@ -40,7 +40,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
         title: "explore",
-        folderDefaultState: "collapsed"
+        folderDefaultState: "collapsed",
+        folderClickBehavior: "link", // muda pra link
+        filterFn: (node) => { return node.isFolder  },
       }),
     // Component.RecentNotes({ 
     //   title: "notas recentes", 
@@ -48,11 +50,11 @@ export const defaultContentPageLayout: PageLayout = {
     //   showTags: false,
     //   linkToMore: "tags/notas"
     // })
+    Component.DesktopOnly(Component.TableOfContents()),
     
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -72,7 +74,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => { return node.isFolder },
+}),
   ],
   right: [],
 }
