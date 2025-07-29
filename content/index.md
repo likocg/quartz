@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-24T19:49","published":"2025-07-26T20:40:11.026-03:00","cssclasses":""}
+{"publish":true,"title":"Olá! 👋","created":"2023-01-20T13:16:00","modified":"2025-07-26T20:40","published":"2025-07-29T13:19:45.998-03:00","cssclasses":""}
 ---
 
 # Olá! 👋
@@ -8,7 +8,7 @@ Eu sou [[Sobre mim\|Eliel]], e você veio parar no meu *matagal dazideia*:
 
 Um laboratório de estudos em que compilo algumas anotações publicamente. Se você não entender qualquer frase que esteja por aí, provavelmente é porque não foi escrita pensando em uma audiência. A organização é propositalmente difícil de navegar com links que frequentemente se modificam e mudam de lugar.
 
-**Isso aqui não é um blog. A maior parte dos links não passam de anotações e rascunhos.**
+**Isso aqui não é um blog e eu não encorajo a acompanhar via rss. A maior parte dos links não passam de anotações e rascunhos.**
 
 Se quiser acessar meu blog de verdade: [Cosmoliko](https://cosmoliko.com/)
 
@@ -20,6 +20,8 @@ Você pode conferir a página [[Sobre mim]], minha [[02 Áreas/MOCs/Biblioteca]]
 ## Notas criadas nos últimos dias
 | File                                                                                                                                                                                                                                                                             | Criado em  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[02 Áreas/Notas/Teste Embed 2\|Teste Embed 2]]                                                                                                                                                                                                                               | 29/07/2025 |
+| [[02 Áreas/Notas/Teste Embed 1\|Teste Embed 1]]                                                                                                                                                                                                                               | 29/07/2025 |
 | [[02 Áreas/Notas/Como configurar Roam Research MCP no Raycast\|Como configurar Roam Research MCP no Raycast]]                                                                                                                                                                 | 26/07/2025 |
 | [[02 Áreas/Notas/Como configurar Ghost MCP no Raycast\|Como configurar Ghost MCP no Raycast]]                                                                                                                                                                                 | 26/07/2025 |
 | [[02 Áreas/Notas/Como configurar Readwise MCP no Raycast\|Como configurar Readwise MCP no Raycast]]                                                                                                                                                                           | 26/07/2025 |
@@ -33,8 +35,6 @@ Você pode conferir a página [[Sobre mim]], minha [[02 Áreas/MOCs/Biblioteca]]
 | [[Sobre mim\|Sobre mim]]                                                                                                                                                                                                                         | 10/07/2025 |
 | [[02 Áreas/Notas/Histórias que nos escolhem\|Histórias que nos escolhem]]                                                                                                                                                                                                     | 10/07/2025 |
 | [[02 Áreas/Notas/MacWhisper - Discussão sobre Detecção de Speakers e Resumos\|MacWhisper - Discussão sobre Detecção de Speakers e Resumos]]                                                                                                                                   | 10/07/2025 |
-| [[02 Áreas/Notas/Fundação Cacique Cobra Coral cortou a assistência climática aos EUA\|Fundação Cacique Cobra Coral cortou a assistência climática aos EUA]]                                                                                                                   | 10/07/2025 |
-| [[02 Áreas/Livros/Vida Desinteressante (2021)\|Vida Desinteressante (2021)]]                                                                                                                                                                                                  | 09/07/2025 |
 
 
 
@@ -60,6 +60,6 @@ Próximos passos:
 		- Fiz gambiarra.
 - [x] Remover Vercel do Footer. Troquei pelo Github pages.
 - [ ] Melhorar a visualização mobile
-- [ ] Melhorar os code blocks. São horríveis.
+- [ ] Remover arquivos do Explorer, temporariamente, enquanto não arrumo a sidebar toda.
 
 ---
