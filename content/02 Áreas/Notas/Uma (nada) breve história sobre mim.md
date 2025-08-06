@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-02-08T13:55","modified":"2024-02-13T20:47","tags":["notas"],"cssclasses":""}
+{"publish":true,"created":"2024-02-08T13:55","modified":"2024-02-13T20:47","published":"2025-07-06T12:31:40.118-03:00","tags":["notas"],"cssclasses":""}
 ---
 
 # Uma (nada) breve história sobre mim

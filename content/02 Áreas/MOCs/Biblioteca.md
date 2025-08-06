@@ -17,7 +17,7 @@
 - [[02 Áreas/Livros/O pequeno livro de hai-kais do Menino Maluquinho (2012)]], [[02 Áreas/Pessoas/Ziraldo]]
 - [[02 Áreas/Livros/Purpose and profit (2024)]], [[02 Áreas/Pessoas/Dan Koe]]
 - [[02 Áreas/Livros/Built to Sell]], [[02 Áreas/Pessoas/John Warrilow]]
-- [[02 Áreas/Livros/O Fantasma da Ópera]], [[02 Áreas/Pessoas/Gaston Leroux]]
+- [[O Fantasma da Ópera]], [[02 Áreas/Pessoas/Gaston Leroux]]
 - [[02 Áreas/Livros/Heartstopper - Minha pessoa favorita (vol. 2) (2021)]], [[02 Áreas/Pessoas/Alice Oseman]]
 - [[02 Áreas/Livros/Heartstopper - Dois garotos, um encontro (vol. 1) (2021)]], [[02 Áreas/Pessoas/Alice Oseman]]
 - [[02 Áreas/Livros/O amanhã não está à venda (2020)]], [[02 Áreas/Pessoas/Ailton Krenak]]

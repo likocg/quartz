@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-01-23T20:35","modified":"2025-07-06T20:20","cssclasses":""}
+{"publish":true,"created":"2023-01-23T20:35","modified":"2025-07-06T20:20","published":"2025-07-06T20:41:10.063-03:00","cssclasses":""}
 ---
 
 ## Março, 2024

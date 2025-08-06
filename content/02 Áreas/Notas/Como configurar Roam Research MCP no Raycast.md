@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-26T13:27","modified":"2025-07-26T13:27","published":"2025-07-26T19:43:45.258-03:00","tags":["notas","como","roamresearch","mcp","raycast"],"cssclasses":""}
+{"publish":true,"created":"2025-07-26T13:27","modified":"2025-07-26T19:43","published":"2025-07-30T17:27:32.320-03:00","tags":["notas","como","roamresearch","mcp","raycast"],"cssclasses":""}
 ---
 
 # Configurando Roam Research MCP no Raycast
@@ -89,8 +89,10 @@ Após configurar, testar com: "me mostra as páginas modificadas hoje"
 https://github.com/2b3pro/roam-research-mcp
 
 ---
-# Teste
+# Testes
 
+Vez ou outra estou encontrando um propósito para essa integração, como no caso abaixo:
 
+![[03 Arquivos/Attachments/CleanShot 2025-07-30 at 17.26.32@2x.png]]
 
 

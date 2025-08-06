@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-03-30T18:24","modified":"2024-03-30T18:43","tags":["notas"],"cssclasses":""}
+{"publish":true,"created":"2024-03-30T18:24","modified":"2024-03-30T18:43","published":"2025-07-06T12:35:16.573-03:00","tags":["notas"],"cssclasses":""}
 ---
 
 # Quando temos assuntos mais urgentes do que a mudança climática

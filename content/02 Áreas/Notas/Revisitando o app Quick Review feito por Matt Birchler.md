@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-03-31T11:53","modified":"2024-03-31T12:02","tags":["notas","Quick-Review"],"cssclasses":""}
+{"publish":true,"created":"2024-03-31T11:53","modified":"2024-03-31T12:02","published":"2025-07-06T12:32:15.237-03:00","tags":["notas","Quick-Review"],"cssclasses":""}
 ---
 
 # Revisitando o app Quick Review feito por Matt Birchler

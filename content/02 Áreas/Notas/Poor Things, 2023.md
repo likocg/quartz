@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-03-30T17:49","modified":"2024-03-30T18:22","tags":["notas"],"cssclasses":""}
+{"publish":true,"created":"2024-03-30T17:49","modified":"2024-03-30T18:22","published":"2025-07-06T12:33:05.462-03:00","tags":["notas"],"cssclasses":""}
 ---
 
 # Poor Things, 2023
